@@ -4,7 +4,7 @@ A grid of colorful boxes that can be used as a jQuery playground for learning se
 
 ### Exercise 1 - DOM Ready
 
-Reference [this page](https://learn.jquery.com/using-jquery-core/document-ready/). Add a callback function to ready that alerts a message saying, ready for DOM manipulation.  Try using both styles of callbacks. 
+Reference [this page](https://learn.jquery.com/using-jquery-core/document-ready/). Add a callback function to ready that alerts a message saying, ready for DOM manipulation.  Try using both styles of callbacks.
 
 ### Exercise 2 - Selectors, CSS, Attributes
 
